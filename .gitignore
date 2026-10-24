@@ -1,0 +1,8 @@
+# Local backup states & cache
+data/backup_state.json
+*.log
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
